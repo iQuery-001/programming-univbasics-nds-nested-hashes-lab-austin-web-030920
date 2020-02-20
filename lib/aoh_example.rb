@@ -21,7 +21,7 @@ def literal_aoh
   people << PAT_M
   people << KATE_G
   people << BRUCE_G
-  
+
 end
 
 def aoh_lookup(aoh, row, key)
